@@ -1,0 +1,146 @@
+gEDA/gschem version 20050820
+gEDA/gschem comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Read system-gafrc file [/usr/local/bin/geda-install/share/gEDA/system-gafrc]
+Did not find optional ~/.gEDA/gafrc file [/home/david/.gEDA]
+Did not find optional local gafrc file [/home/david/hardware-0.1/sym/gafrc]
+Read system-gschemrc file [/usr/local/bin/geda-install/share/gEDA/system-gschemrc]
+Did not find optional ~/.gEDA/gschemrc file [/home/david/.gEDA]
+Did not find optional local gschemrc file [/home/david/hardware-0.1/sym/gschemrc]
+Read init scm file [/usr/local/bin/geda-install/share/gEDA/scheme/gschem.scm]
+Did not find specified /home/david/hardware-0.1/sym/gafrc file [/home/david/hardware-0.1/sym/gafrc]
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-inductor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-npn-2.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-pnp-2.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-npn-2.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-varistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [Si3050.sym] was not found in any component library
+Component library was not found or specified
+Component [Si3019.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-zener-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-in-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-2.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-npn-2.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-npn-2.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-inductor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-capacitor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-resistor-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-out-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-diode-dual-1.sym] was not found in any component library
+Component library was not found or specified
+Component [bf-diode-dual-1.sym] was not found in any component library
+Component library was not found or specified
+Opened file [/home/david/hardware-0.1/sym/fxo.sch]

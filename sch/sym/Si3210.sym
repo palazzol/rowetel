@@ -1,0 +1,354 @@
+v 20060123 1
+B 2300 5100 6100 8200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 8800 12400 8400 12400 1 0 0
+{
+T 8700 12500 5 10 1 1 0 6 1
+pinnumber=35
+T 8400 12400 5 10 1 1 0 6 1
+pinlabel=SDITHRU
+T 8400 12300 5 10 0 0 0 6 1
+pintype=out
+}
+P 8800 12100 8400 12100 1 0 0
+{
+T 8700 12200 5 10 1 1 0 6 1
+pinnumber=38
+T 8400 12100 5 10 1 1 0 6 1
+pinlabel=SCLK
+T 8400 12000 5 10 0 0 0 6 1
+pintype=in
+}
+P 8800 11800 8400 11800 1 0 0
+{
+T 8300 11800 5 10 1 1 0 6 1
+pinlabel=SDI
+T 8700 11900 5 10 1 1 0 6 1
+pinnumber=37
+T 8400 11700 5 10 0 0 0 6 1
+pintype=in
+}
+P 8800 11500 8400 11500 1 0 0
+{
+T 8700 11600 5 10 1 1 0 6 1
+pinnumber=36
+T 8400 11500 5 10 1 1 0 6 1
+pinlabel=SDO
+T 8400 11400 5 10 0 0 0 6 1
+pintype=out
+}
+P 8800 11200 8400 11200 1 0 0
+{
+T 8600 11300 5 10 1 1 0 6 1
+pinnumber=1
+T 8400 11200 5 10 1 1 0 6 1
+pinlabel=nCS
+T 8400 11100 5 10 0 0 0 6 1
+pintype=in
+}
+P 8800 10600 8400 10600 1 0 0
+{
+T 8600 10700 5 10 1 1 0 6 1
+pinnumber=6
+T 8400 10600 5 10 1 1 0 6 1
+pinlabel=FSYNC
+T 8400 10500 5 10 0 0 0 6 1
+pintype=in
+}
+P 8800 10300 8400 10300 1 0 0
+{
+T 8600 10400 5 10 1 1 0 6 1
+pinnumber=3
+T 8400 10300 5 10 1 1 0 6 1
+pinlabel=PCLK
+T 8400 10200 5 10 0 0 0 6 1
+pintype=in
+}
+P 8800 10000 8400 10000 1 0 0
+{
+T 8600 10100 5 10 1 1 0 6 1
+pinnumber=4
+T 8400 10000 5 10 1 1 0 6 1
+pinlabel=DRX
+T 8400 9900 5 10 0 0 0 6 1
+pintype=in
+}
+P 8800 9700 8400 9700 1 0 0
+{
+T 8600 9800 5 10 1 1 0 6 1
+pinnumber=5
+T 8400 9700 5 10 1 1 0 6 1
+pinlabel=DTX
+T 8400 9600 5 10 0 0 0 6 1
+pintype=out
+}
+P 8800 9100 8400 9100 1 0 0
+{
+T 8400 9100 5 10 1 1 0 6 1
+pinlabel=nINT
+T 8600 9200 5 10 1 1 0 6 1
+pinnumber=2
+T 8400 9000 5 10 0 0 0 6 1
+pintype=out
+}
+P 8800 8800 8400 8800 1 0 0
+{
+T 8400 8800 5 10 1 1 0 6 1
+pinlabel=nRST
+T 8600 8900 5 10 1 1 0 6 1
+pinnumber=7
+T 8400 8700 5 10 0 0 0 6 1
+pintype=in
+}
+P 8800 8300 8400 8300 1 0 0
+{
+T 8400 8300 5 10 1 1 0 6 1
+pinlabel=IGMP
+T 8700 8400 5 10 1 1 0 6 1
+pinnumber=24
+T 8400 8200 5 10 0 0 0 6 1
+pintype=pas
+}
+P 8800 7900 8400 7900 1 0 0
+{
+T 8400 7900 5 10 1 1 0 6 1
+pinlabel=IGMN
+T 8700 8000 5 10 1 1 0 6 1
+pinnumber=22
+T 8400 7800 5 10 0 0 0 6 1
+pintype=pas
+}
+P 8800 7500 8400 7500 1 0 0
+{
+T 8400 7500 5 10 1 1 0 6 1
+pinlabel=IREF
+T 8600 7600 5 10 1 1 0 6 1
+pinnumber=11
+T 8400 7400 5 10 0 0 0 6 1
+pintype=pas
+}
+P 8800 7100 8400 7100 1 0 0
+{
+T 8400 7100 5 10 1 1 0 6 1
+pinlabel=CAPP
+T 8700 7200 5 10 1 1 0 6 1
+pinnumber=12
+T 8400 7000 5 10 0 0 0 6 1
+pintype=pas
+}
+P 8800 6800 8400 6800 1 0 0
+{
+T 8700 6900 5 10 1 1 0 6 1
+pinnumber=14
+T 8400 6800 5 10 1 1 0 6 1
+pinlabel=CAPM
+T 8400 6700 5 10 0 0 0 6 1
+pintype=pas
+}
+P 8800 5900 8400 5900 1 0 0
+{
+T 8700 6000 5 10 1 1 0 6 1
+pinnumber=13
+T 8400 5900 5 10 1 1 0 6 1
+pinlabel=QGDN
+T 8400 5800 5 10 0 0 0 6 1
+pintype=pas
+}
+P 6900 4800 6900 5100 1 0 0
+{
+T 6700 4900 5 10 1 1 0 0 1
+pinnumber=8
+T 6900 5200 5 10 1 1 90 0 1
+pinlabel=SDCH
+T 7200 5200 5 10 0 0 90 0 1
+pintype=pas
+}
+P 5800 4800 5800 5100 1 0 0
+{
+T 5600 4900 5 10 1 1 0 0 1
+pinnumber=9
+T 5800 5200 5 10 1 1 90 0 1
+pinlabel=SDCL
+T 6000 5200 5 10 0 0 90 0 1
+pintype=pas
+}
+P 4900 4800 4900 5100 1 0 0
+{
+T 4600 4900 5 10 1 1 0 0 1
+pinnumber=33
+T 5000 5200 5 10 1 1 90 0 1
+pinlabel=DCFF
+T 5200 5100 5 10 0 0 90 0 1
+pintype=pas
+}
+P 3900 4800 3900 5100 1 0 0
+{
+T 3600 4900 5 10 1 1 0 0 1
+pinnumber=34
+T 4000 5200 5 10 1 1 90 0 1
+pinlabel=DCDR
+T 4200 5200 5 10 0 0 90 0 1
+pintype=pas
+}
+P 2000 5700 2300 5700 1 0 0
+{
+T 2200 5800 5 10 1 1 0 6 1
+pinnumber=16
+T 3200 5700 5 10 1 1 0 6 1
+pinlabel=SRINGDC
+T 3400 5600 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 6200 2300 6200 1 0 0
+{
+T 2300 6300 5 10 1 1 0 6 1
+pinnumber=21
+T 3300 6200 5 10 1 1 0 6 1
+pinlabel=SRINGAC
+T 3400 6100 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 7200 2300 7200 1 0 0
+{
+T 2200 7300 5 10 1 1 0 6 1
+pinnumber=18
+T 3100 7200 5 10 1 1 0 6 1
+pinlabel=SVBAT
+T 3400 7100 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 8200 2300 8200 1 0 0
+{
+T 3100 8200 5 10 1 1 0 6 1
+pinlabel=SRINGE
+T 2300 8300 5 10 1 1 0 6 1
+pinnumber=19
+T 3400 8100 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 8700 2300 8700 1 0 0
+{
+T 2300 8800 5 10 1 1 0 6 1
+pinnumber=17
+T 2900 8700 5 10 1 1 0 6 1
+pinlabel=STIPE
+T 3400 8600 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 9700 2300 9700 1 0 0
+{
+T 2300 9800 5 10 1 1 0 6 1
+pinnumber=26
+T 3000 9600 5 10 1 1 0 6 1
+pinlabel=IRINGP
+T 3400 9600 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 10100 2300 10100 1 0 0
+{
+T 2300 10200 5 10 1 1 0 6 1
+pinnumber=28
+T 2800 10100 5 10 1 1 0 6 1
+pinlabel=ITIPP
+T 3400 10000 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 12700 2300 12700 1 0 0
+{
+T 3000 12700 5 10 1 1 0 6 1
+pinlabel=STIPDC
+T 3400 12600 5 10 0 0 0 6 1
+pintype=pas
+T 2100 12800 5 10 1 1 0 0 1
+pinnumber=15
+}
+P 2000 11100 2300 11100 1 0 0
+{
+T 2300 11200 5 10 1 1 0 6 1
+pinnumber=29
+T 2900 11100 5 10 1 1 0 6 1
+pinlabel=ITIPN
+T 3400 11100 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 10700 2300 10700 1 0 0
+{
+T 2300 10800 5 10 1 1 0 6 1
+pinnumber=25
+T 3100 10700 5 10 1 1 0 6 1
+pinlabel=IRINGN
+T 3400 10700 5 10 0 0 0 6 1
+pintype=pas
+}
+P 2000 12200 2300 12200 1 0 0
+{
+T 2300 12300 5 10 1 1 0 6 1
+pinnumber=20
+T 3100 12200 5 10 1 1 0 6 1
+pinlabel=STIPAC
+T 3400 12100 5 10 0 0 0 6 1
+pintype=pas
+}
+T 2400 14800 8 10 0 0 0 0 1
+author=Rosemary Rowe <rosemary_rowe@hotmail.com>
+T 2400 14600 8 10 0 0 0 0 1
+description=Programmable SLIC with ringing/battery voltage generation
+T 2400 14400 8 10 0 0 0 0 1
+footprint=bf_TSSOP38
+T 2400 14200 8 10 0 0 0 0 1
+device=Si3210
+T 1700 4900 9 10 1 0 0 0 1
+Si3210-FT (TSSOP)
+P 3600 13600 3600 13300 1 0 0
+{
+T 3300 13400 5 10 1 1 0 0 1
+pinnumber=23
+T 3700 12700 5 10 1 1 90 0 1
+pinlabel=GNDA
+T 3900 12700 5 10 0 1 90 0 1
+pintype=pwr
+}
+P 4200 13600 4200 13300 1 0 0
+{
+T 4000 13400 5 10 1 1 0 0 1
+pinnumber=31
+T 4400 12800 5 10 0 1 90 0 1
+pintype=pwr
+T 4200 12700 5 10 1 1 90 0 1
+pinlabel=GNDD
+}
+P 5100 13600 5100 13300 1 0 0
+{
+T 4800 13400 5 10 1 1 0 0 1
+pinnumber=27
+T 5200 12600 5 10 1 1 90 0 1
+pinlabel=VDDA2
+T 5400 13000 5 10 0 1 90 0 1
+pintype=pas
+}
+P 7500 13600 7500 13300 1 0 0
+{
+T 7500 13500 5 10 1 1 180 0 1
+pinnumber=30
+T 7800 12800 5 10 0 1 90 0 1
+pintype=pwr
+T 7600 12700 5 10 1 1 90 0 1
+pinlabel=VDDD
+}
+P 3100 13600 3100 13300 1 0 0
+{
+T 2800 13400 5 10 1 1 0 0 1
+pinnumber=32
+T 3400 13000 5 10 0 1 90 0 1
+pintype=in
+T 3200 12800 5 10 1 1 90 0 1
+pinlabel=TEST
+}
+P 4700 13600 4700 13300 1 0 0
+{
+T 4900 12800 5 10 0 1 90 0 1
+pintype=pwr
+T 4400 13400 5 10 1 1 0 0 1
+pinnumber=10
+T 4700 12700 5 10 1 1 90 0 1
+pinlabel=VDDA1
+}

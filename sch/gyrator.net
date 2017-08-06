@@ -1,0 +1,24 @@
+GYRATOR DC SPICE SIMULATION
+*   $ ngspice -b gyrator.net
+* OR (with .DC and .PRINT enabled):
+*   $ ngspice -b gyrator.net -o out.txt
+*   $ cat out.txt | sed -n '/^[0-9]/p' > out.col
+* then plot out.col with Octave
+*   octave:1> load out.col
+* octave:2> plot(out(:,2),-out(:,3))
+*
+* At DC the Gyrator looks like a resistance of R1/Beta 
+* when measured as (delta V)/(delta I) 
+
+R1   1  2 10000
+R2   2  3 10000
+R3   3  4 47
+C1   2  4 1E-6
+Q1   1  2 3 MOD1
+RB   4  0 200
+VB   1  0 DC 20
+.MODEL MOD1 NPN BF=200
+*.OP
+.DC VB 0 48 0.1
+.PRINT DC I(VB)
+.END

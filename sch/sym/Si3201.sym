@@ -1,0 +1,165 @@
+v 20060123 1
+B 600 600 3900 3900 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 1700 4800 1700 4500 1 0 0
+{
+T 2000 4400 5 10 1 1 180 0 1
+pinlabel=VDD
+T 1500 4100 5 10 0 1 0 0 1
+pintype=pwr
+T 1500 4600 5 10 1 1 0 0 1
+pinnumber=8
+}
+P 3100 4800 3100 4500 1 0 0
+{
+T 3300 4400 5 10 1 1 180 0 1
+pinlabel=GND
+T 2900 4100 5 10 0 1 0 0 1
+pintype=pwr
+T 2900 4600 5 10 1 1 0 0 1
+pinnumber=7
+}
+P 4800 3900 4500 3900 1 0 0
+{
+T 4400 3900 5 10 1 1 0 6 1
+pinlabel=ITIPN
+T 4500 3800 5 10 0 0 0 6 1
+pintype=pas
+T 4600 4000 5 10 1 1 0 0 1
+pinnumber=15
+}
+P 4800 3500 4500 3500 1 0 0
+{
+T 4500 3500 5 10 1 1 0 6 1
+pinlabel=IRINGN
+T 4500 3300 5 10 0 0 0 6 1
+pintype=pas
+T 4600 3600 5 10 1 1 0 0 1
+pinnumber=13
+}
+P 4800 2900 4500 2900 1 0 0
+{
+T 4500 2900 5 10 1 1 0 6 1
+pinlabel=ITIPP
+T 4500 2800 5 10 0 0 0 6 1
+pintype=pas
+T 4600 3000 5 10 1 1 0 0 1
+pinnumber=16
+}
+P 4800 2500 4500 2500 1 0 0
+{
+T 3900 2500 5 10 1 1 0 0 1
+pinlabel=IRINGP
+T 3500 2300 5 10 0 0 0 0 1
+pintype=pas
+T 4600 2600 5 10 1 1 0 0 1
+pinnumber=14
+}
+P 4800 1000 4500 1000 1 0 0
+{
+T 4500 1000 5 10 1 1 0 6 1
+pinlabel=SRINGE
+T 4500 800 5 10 0 0 0 6 1
+pintype=pas
+T 4600 1100 5 10 1 1 0 0 1
+pinnumber=10
+}
+P 4800 1500 4500 1500 1 0 0
+{
+T 4400 1500 5 10 1 1 0 6 1
+pinlabel=STIPE
+T 4500 1400 5 10 0 0 0 6 1
+pintype=pas
+T 4600 1600 5 10 1 1 0 0 1
+pinnumber=11
+}
+P 400 3500 600 3500 1 0 0
+{
+T 1000 3500 5 10 1 1 0 6 1
+pinlabel=TIP
+T 1600 3300 5 10 0 0 0 6 1
+pintype=pas
+T 400 3600 5 10 1 1 0 0 1
+pinnumber=1
+}
+P 400 1500 600 1500 1 0 0
+{
+T 1100 1500 5 10 1 1 0 6 1
+pinlabel=RING
+T 1600 1400 5 10 0 0 0 6 1
+pintype=pas
+T 400 1600 5 10 1 1 0 0 1
+pinnumber=3
+}
+P 1600 300 1600 600 1 0 0
+{
+T 1300 800 5 10 1 1 0 2 1
+pinlabel=VBATH
+T 1300 300 5 10 0 1 180 6 1
+pintype=pwr
+T 1400 400 5 10 1 1 0 0 1
+pinnumber=5
+}
+P 2300 300 2300 600 1 0 0
+{
+T 2100 675 5 10 1 1 0 0 1
+pinlabel=VBAT
+T 2100 200 5 10 0 1 0 0 1
+pintype=pwr
+T 2100 400 5 10 1 1 0 0 1
+pinnumber=4
+}
+P 400 4100 600 4100 1 0 0
+{
+T 1000 4100 5 10 1 1 0 6 1
+pinlabel=NC1
+T 1700 4000 5 10 0 0 0 6 1
+pintype=pas
+T 400 4200 5 10 1 1 0 0 1
+pinnumber=2
+}
+P 400 3800 600 3800 1 0 0
+{
+T 1100 3800 5 10 1 1 0 6 1
+pinlabel=NC2
+T 1700 3700 5 10 0 0 0 6 1
+pintype=pas
+T 400 3900 5 10 1 1 0 0 1
+pinnumber=6
+}
+P 400 1200 600 1200 1 0 0
+{
+T 1100 1200 5 10 1 1 0 6 1
+pinlabel=NC3
+T 1600 1100 5 10 0 0 0 6 1
+pintype=pas
+T 400 1300 5 10 1 1 0 0 1
+pinnumber=9
+}
+P 400 900 600 900 1 0 0
+{
+T 1100 900 5 10 1 1 0 6 1
+pinlabel=NC4
+T 1600 800 5 10 0 0 0 6 1
+pintype=pas
+T 400 1000 5 10 1 1 0 0 1
+pinnumber=12
+}
+T 700 5900 8 10 0 0 0 0 1
+author=Rosemary Rowe <rosemary_rowe@hotmail.com>
+T 700 5700 8 10 0 0 0 0 1
+description=Linefeed Interface Chip
+T 700 5500 8 10 0 0 0 0 1
+footprint=bf_ESOIC16
+T 700 5300 8 10 0 0 0 0 1
+device=Si3201
+T 600 400 9 10 1 0 0 0 1
+Si3201
+P 3800 4800 3800 4500 1 0 0
+{
+T 4000 4400 5 10 1 1 180 0 1
+pinlabel=GND
+T 3600 4100 5 10 0 1 0 0 1
+pintype=pwr
+T 3600 4600 5 10 1 1 0 0 1
+pinnumber=17
+}

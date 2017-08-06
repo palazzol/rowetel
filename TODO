@@ -1,0 +1,47 @@
+Task list for $10 ATA
+
+[ ] create SVN repository
+    [ ] Apply for SF project
+    [ ] check in
+
+[ ] Draw schematic
+    [X] DC-DC converter
+    [X] hook detection
+    [ ] tx audio
+    [ ] rx audio
+
+[ ] AVR code
+    [ ] build up basic Vbat on hook/Ibat off hook main loop
+        [ ] single shot ADC mode
+        [ ] then move to clocked mode
+            [ ] measure conversion rate
+    [X] resolder hardware neatly
+    [ ] add audio tx/rx code 
+        [ ] work out how to sample hook detect without messing up audio
+        [ ] work out how to handle full duplex audio and flow control to host
+    [ ] test full duplex audio 
+        + run resample code on x86 host
+    [ ] implement echo canceller
+    [ ] implement closed loop Ibat regulation that is audio noise free
+        
+[ ] Safety features
+    [ ] lightning protection
+        + a likely event in developing world target markets
+    [ ] ring voltage protection
+        + what affect will ring voltage have on rx audio A/D inputs
+        + will it pass thru coupling caps?
+        + perhaps AVR has protection diodes that will handle it?
+    [ ] Watchdog emergency cut out
+        + say if uC hangs at point where duty cycle
+          of DC-DC PWM is high
+        + way to cut PWM pulses to DC-DC converter
+    [ ] Over current cut out
+    
+[ ] risks
+    [ ] how to sample Vbat (for hook switch) at same
+        time as sampling audio
+        + maybe steal 1 in 1000 samples?
+    [ ] does A/D sample at same speed as PWM (16kHz)
+    [ ] differential issues
+        + try a 20m cable run, see if there is any hum on audio
+

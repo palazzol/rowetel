@@ -1,0 +1,192 @@
+v 20050820 1
+B 300 0 1500 2700 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 300 2400 0 2400 1 0 1
+{
+T 200 2450 5 8 1 1 0 6 1
+pinnumber=1
+T 200 2350 5 8 0 1 0 8 1
+pinseq=1
+T 350 2400 9 8 1 1 0 0 1
+pinlabel=QE
+T 350 2400 5 8 0 1 0 2 1
+pintype=pas
+}
+P 300 2100 0 2100 1 0 1
+{
+T 200 2150 5 8 1 1 0 6 1
+pinnumber=2
+T 200 2050 5 8 0 1 0 8 1
+pinseq=2
+T 350 2100 9 8 1 1 0 0 1
+pinlabel=DCT
+T 350 2100 5 8 0 1 0 2 1
+pintype=pas
+}
+P 300 1800 0 1800 1 0 1
+{
+T 200 1850 5 8 1 1 0 6 1
+pinnumber=3
+T 200 1750 5 8 0 1 0 8 1
+pinseq=3
+T 350 1800 9 8 1 1 0 0 1
+pinlabel=RX
+T 350 1800 5 8 0 1 0 2 1
+pintype=pas
+}
+P 300 1500 0 1500 1 0 1
+{
+T 200 1550 5 8 1 1 0 6 1
+pinnumber=4
+T 200 1450 5 8 0 1 0 8 1
+pinseq=4
+T 350 1500 9 8 1 1 0 0 1
+pinlabel=IB
+T 350 1500 5 8 0 1 0 2 1
+pintype=pas
+}
+P 300 1200 0 1200 1 0 1
+{
+T 200 1250 5 8 1 1 0 6 1
+pinnumber=5
+T 200 1150 5 8 0 1 0 8 1
+pinseq=5
+T 350 1200 9 8 1 1 0 0 1
+pinlabel=C1B
+T 350 1200 5 8 0 1 0 2 1
+pintype=pas
+}
+P 300 900 0 900 1 0 1
+{
+T 200 950 5 8 1 1 0 6 1
+pinnumber=6
+T 200 850 5 8 0 1 0 8 1
+pinseq=6
+T 350 900 9 8 1 1 0 0 1
+pinlabel=C2B
+T 350 900 5 8 0 1 0 2 1
+pintype=pas
+}
+P 300 600 0 600 1 0 1
+{
+T 200 650 5 8 1 1 0 6 1
+pinnumber=7
+T 200 550 5 8 0 1 0 8 1
+pinseq=7
+T 350 600 9 8 1 1 0 0 1
+pinlabel=VREG
+T 350 600 5 8 0 1 0 2 1
+pintype=pas
+}
+P 300 300 0 300 1 0 1
+{
+T 200 350 5 8 1 1 0 6 1
+pinnumber=8
+T 200 250 5 8 0 1 0 8 1
+pinseq=8
+T 350 300 9 8 1 1 0 0 1
+pinlabel=RNG1
+T 350 300 5 8 0 1 0 2 1
+pintype=pas
+}
+P 1800 300 2100 300 1 0 1
+{
+T 1900 350 5 8 1 1 0 0 1
+pinnumber=9
+T 1900 250 5 8 0 1 0 2 1
+pinseq=9
+T 1750 300 9 8 1 1 0 6 1
+pinlabel=RNG2
+T 1750 300 5 8 0 1 0 8 1
+pintype=pas
+}
+P 1800 600 2100 600 1 0 1
+{
+T 1900 650 5 8 1 1 0 0 1
+pinnumber=10
+T 1900 550 5 8 0 1 0 2 1
+pinseq=10
+T 1750 600 9 8 1 1 0 6 1
+pinlabel=VREG2
+T 1750 600 5 8 0 1 0 8 1
+pintype=pas
+}
+P 1800 900 2100 900 1 0 1
+{
+T 1900 950 5 8 1 1 0 0 1
+pinnumber=11
+T 1900 850 5 8 0 1 0 2 1
+pinseq=11
+T 1750 900 9 8 1 1 0 6 1
+pinlabel=SC
+T 1750 900 5 8 0 1 0 8 1
+pintype=pas
+}
+P 1800 1200 2100 1200 1 0 1
+{
+T 1900 1250 5 8 1 1 0 0 1
+pinnumber=12
+T 1900 1150 5 8 0 1 0 2 1
+pinseq=12
+T 1750 1200 9 8 1 1 0 6 1
+pinlabel=QE2
+T 1750 1200 5 8 0 1 0 8 1
+pintype=pas
+}
+P 1800 1500 2100 1500 1 0 1
+{
+T 1900 1550 5 8 1 1 0 0 1
+pinnumber=13
+T 1900 1450 5 8 0 1 0 2 1
+pinseq=13
+T 1750 1500 9 8 1 1 0 6 1
+pinlabel=QB
+T 1750 1500 5 8 0 1 0 8 1
+pintype=pas
+}
+P 1800 1800 2100 1800 1 0 1
+{
+T 1900 1850 5 8 1 1 0 0 1
+pinnumber=14
+T 1900 1750 5 8 0 1 0 2 1
+pinseq=14
+T 1750 1800 9 8 1 1 0 6 1
+pinlabel=DCT3
+T 1750 1800 5 8 0 1 0 8 1
+pintype=pas
+}
+P 1800 2100 2100 2100 1 0 1
+{
+T 1900 2150 5 8 1 1 0 0 1
+pinnumber=15
+T 1900 2050 5 8 0 1 0 2 1
+pinseq=15
+T 1750 2100 9 8 1 1 0 6 1
+pinlabel=IGND
+T 1750 2100 5 8 0 1 0 8 1
+pintype=pas
+}
+P 1800 2400 2100 2400 1 0 1
+{
+T 1900 2450 5 8 1 1 0 0 1
+pinnumber=16
+T 1900 2350 5 8 0 1 0 2 1
+pinseq=16
+T 1750 2400 9 8 1 1 0 6 1
+pinlabel=DCT2
+T 1750 2400 5 8 0 1 0 8 1
+pintype=pas
+}
+T 1800 2800 8 10 1 1 0 6 1
+refdes=U?
+T 300 3350 5 10 0 0 0 0 1
+device=Si3019-KT
+T 300 3550 5 10 0 0 0 0 1
+footprint=bf_TSSOP16
+T 300 3950 5 10 0 0 0 0 1
+description=Global Voice/Data Direct Access Arrangement
+T 300 3750 5 10 0 0 0 0 1
+numslots=0
+T 300 4150 5 10 0 0 0 0 1
+author=David Rowe <david@rowetel.com>
+T 300 2750 9 10 1 0 0 0 1
+Si3019-KT

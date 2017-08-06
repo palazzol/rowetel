@@ -1,0 +1,10 @@
+Latex code for blog post on Gyrator DC Characteristics
+Ic = \beta Ib \hspace{46} (1)\\
+I_1=I_b+I_2\\
+I_b=I_1-I_2 \hspace{25}(2)\\
+I_1=\frac {V-Vb} {R1}\\
+I_2=0.7/R2\\
+\text{sub I_1 and I_2 into (2):}\\
+I_b=\frac {V-[0.7+IcRe]} {R1} - \frac {0.7} {R2}\\
+\text{sub I_b into (1) and simplify:}\\
+Ic=V \frac 1 {Rg+Re} - \frac {0.7 \beta [\frac 1 {R1} + \frac 1 {R2}]} {1 + \beta \frac {Re} {R1}}
