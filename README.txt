@@ -41,8 +41,19 @@ Task List
 References
 ----------
 
-Blog post introduction: http://www.rowetel.com/blog/?p=26
-Google Group..........: http://groups.google.com/group/low-cost-ata/topics
+Blog posts: 
+	Part 1:            http://www.rowetel.com/?p=26
+	Part 2:            http://www.rowetel.com/?p=44
+	Part 3 - Hybrid:   http://www.rowetel.com/?p=1776
+	Part 4 - DC-DC:    http://www.rowetel.com/?p=1807
+	Part 5 - Ringing:  http://www.rowetel.com/?p=1987
+Gyrator DC Characteristic: http://www.rowetel.com/?p=51
+
+Alternate SLIC:
+	Schematic:         http://www.rowetel.com/downloads/SLICN.pdf
+	Expired Patent:    http://www.rowetel.com/downloads/slic_4281219.pdf
+
+Google Group (Inactive):   http://groups.google.com/group/low-cost-ata/topics
 
 Directories
 -----------
